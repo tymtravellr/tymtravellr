@@ -8,9 +8,9 @@
 <br>
 <br>
 <img align="left" alt="coding-gif" width="400" src="https://github.com/tymtravellr/tymtravellr/blob/main/confused.gif" />
-
+<br>
 <!-- About Me -->
-<h3 align="left" style="margin-left: 20px; margin-top: 0px;">💫 About Me</h3>
+<h3 align="left">💫 About Me</h3>
 <p>
   🌱 I am currently working on improving my full-stack development and product-building skills.<br>
 🔭 I work with React, Framer, and modern web technologies.<br>
