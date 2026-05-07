@@ -4,17 +4,17 @@
 </div>
 
 <!-- Greeting -->
-<h2 align="center">❂ I am Robiul Hasan</h2>
+<!-- <h2 align="center">❂ I am Robiul Hasan</h2> -->
 
 <img align="left" alt="coding-gif" width="400" src="https://github.com/tymtravellr/tymtravellr/blob/main/confused.gif" />
 
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 <p>
-  🌱 I am currently working on and developing my programming skills.<br>
-  🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
-  💬 Skills I acquire in programming languages such as Python, SQL.<br>
-  ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
+  🌱 I am currently working on improving my full-stack development and product-building skills.<br>
+🔭 I work with React, Framer, and modern web technologies.<br>
+💬 Skills I use include JavaScript, TypeScript, no-code tools, UI development, and API integrations.<br>
+⚡ Interested in SaaS, startups, automation, product design, SEO tools, and scalable web development.<br>
 </p>
 
 <h3 align="left">🧲 Drop me a line:</h3>
