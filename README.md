@@ -5,11 +5,12 @@
 
 <!-- Greeting -->
 <!-- <h2 align="center">❂ I am Robiul Hasan</h2> -->
-
+<br>
+<br>
 <img align="left" alt="coding-gif" width="400" src="https://github.com/tymtravellr/tymtravellr/blob/main/confused.gif" />
 
 <!-- About Me -->
-<h3 align="left">💫 About Me</h3>
+<h3 align="left" margin-left="20px">💫 About Me</h3>
 <p>
   🌱 I am currently working on improving my full-stack development and product-building skills.<br>
 🔭 I work with React, Framer, and modern web technologies.<br>
