@@ -7,8 +7,7 @@
 <!-- <h2 align="center">❂ I am Robiul Hasan</h2> -->
 <br>
 <br>
-<img align="left" alt="coding-gif" width="400" src="https://github.com/tymtravellr/tymtravellr/blob/main/confused.gif" />
-<br>
+<img align="left" alt="coding-gif" width="300" src="https://github.com/tymtravellr/tymtravellr/blob/main/confused.gif" />
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 <p>
