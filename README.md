@@ -7,7 +7,6 @@
 <!-- <h2 align="center">❂ I am Robiul Hasan</h2> -->
 <br>
 <br>
-<img align="left" alt="confused-boy-gif" width="400" src="https://github.com/tymtravellr/tymtravellr/blob/main/confused-boy.gif" />
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 <p>
@@ -16,14 +15,6 @@
 💬 Skills I use include JavaScript, TypeScript, no-code tools, UI development, and API integrations.<br>
 ⚡ Interested in SaaS, startups, automation, product design, SEO tools, and scalable web development.<br>
 </p>
-
-<h3 align="left">🧲 Drop me a line:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/robiulhasan1" target="_blank"><img width="35px" src="https://github.com/tymtravellr/tymtravellr/blob/main/icons/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://x.com/tymtravellr" target="_blank"><img width="35px" src="https://github.com/tymtravellr/tymtravellr/blob/main/icons/x.png" alt="X" /></a>
-  <a href="https://www.instagram.com/tymtravellr" target="_blank"><img width="35px" src="https://github.com/tymtravellr/tymtravellr/blob/main/icons/insta.png" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/tymtravellr" target="_blank"><img width="35px" src="https://github.com/tymtravellr/tymtravellr/blob/main/icons/fb.png" alt="Facebook" /></a>
-</div>
 
 <br>
 <br>
